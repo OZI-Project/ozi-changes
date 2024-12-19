@@ -41,37 +41,13 @@ extensions = [
     'sphinxcontrib.cairosvgconverter',
 ]
 rst_prolog = '.. include:: latex-tools.rst'
-rst_epilog = """
-.. only:: html
-
-   .. raw:: html
-
-      <script src="https://giscus.app/client.js"
-              data-repo="OZI-Project/.github"
-              data-repo-id="R_kgDOLAb2hQ"
-              data-category="Announcements"
-              data-category-id="DIC_kwDOLAb2hc4Cca6C"
-              data-mapping="og:title"
-              data-strict="0"
-              data-reactions-enabled="1"
-              data-emit-metadata="0"
-              data-input-position="bottom"
-              data-theme="https://www.oziproject.dev/assets/css/giscus-docs.css"
-              data-lang="en"
-              crossorigin="anonymous"
-              async>
-       </script>
-
-"""
 templates_path = ['_templates']
 today_fmt = '%d-%b-%Y'
 python_display_short_literal_types = True
 
 # -- Options for HTML output -------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#options-for-html-output
-html_title = 'docs.OZIproject.dev'
-html_favicon = 'assets/ozi_logo_72.png'
-html_logo = 'assets/ozi_logo_master.png'
+html_title = 'changes.OZIproject.dev'
 html_theme = 'sphinxawesome_theme'
 html_context = {'mode': 'production'}
 # Set canonical URL from the Read the Docs Domain
