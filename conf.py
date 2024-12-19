@@ -64,7 +64,6 @@ html_extra_path = ['robots.txt']
 html_permalinks_icon = Icons.permalinks_icon
 
 # -- Options for LaTeX output ------------------------------------------------
-latex_logo = 'assets/brand/images/ozi_social_preview.png'
 latex_engine = 'lualatex'
 latex_elements = {
     'preamble': r'''\directlua {
