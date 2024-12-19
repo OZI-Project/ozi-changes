@@ -1,0 +1,12 @@
+[submodule "assets/ozi"]
+	path = assets/ozi
+	url = https://github.com/OZI-Project/OZI
+[submodule "assets/ozi-core"]
+	path = assets/ozi-core
+	url = https://github.com/OZI-Project/ozi-core
+[submodule "assets/ozi-spec"]
+	path = assets/ozi-spec
+	url = https://github.com/OZI-Project/ozi-spec
+[submodule "assets/ozi-templates"]
+	path = assets/ozi-templates
+	url = https://github.com/OZI-Project/OZI-Templates
