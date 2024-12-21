@@ -14,10 +14,6 @@ OZI-Changes
    ozi-spec Changelog <assets/ozi-spec/CHANGELOG.md>
    ozi-templates Changelog <assets/ozi-templates/CHANGELOG.md>
 
+.. only:: html
 
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
+   .. include:: tables.rst

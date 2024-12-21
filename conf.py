@@ -80,6 +80,7 @@ latex_elements = {
 ''',
     'fncychap': r'\usepackage[Sonny]{fncychap}'
 }
+latex_toplevel_sectioning = 'part'
 latex_show_pagerefs = True
 latex_show_urls = 'inline'
 
