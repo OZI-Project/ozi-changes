@@ -9,6 +9,8 @@ OZI-Changes
 .. toctree::
    :maxdepth: 1
 
+   OZIproject.dev Homepage <https://oziproject.dev/>
+   docs.OZIproject.dev Documentation <https://docs.oziproject.dev/>
    OZI Changelog <assets/ozi/CHANGELOG.md>
    ozi-core Changelog <assets/ozi-core/CHANGELOG.md>
    ozi-spec Changelog <assets/ozi-spec/CHANGELOG.md>
