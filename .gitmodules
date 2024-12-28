@@ -10,3 +10,6 @@
 [submodule "assets/ozi-templates"]
 	path = assets/ozi-templates
 	url = https://github.com/OZI-Project/OZI-Templates
+[submodule "assets/ozi-build"]
+	path = assets/ozi-build
+	url = https://github.com/OZI-Project/OZI.build

@@ -12,6 +12,7 @@ OZI-Changes
    OZIproject.dev Homepage <https://oziproject.dev/>
    docs.OZIproject.dev Documentation <https://docs.oziproject.dev/>
    OZI Changelog <assets/ozi/CHANGELOG.md>
+   OZI.build Changelog <assets/ozi-build/CHANGELOG.md>
    ozi-core Changelog <assets/ozi-core/CHANGELOG.md>
    ozi-spec Changelog <assets/ozi-spec/CHANGELOG.md>
    ozi-templates Changelog <assets/ozi-templates/CHANGELOG.md>
