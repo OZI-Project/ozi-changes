@@ -11,5 +11,6 @@ updates:
       interval: "weekly"
     ignore:
       - dependency-name: "sphinx" # 8.x unsupported by readthedocs
-        update-types: ["version-update:semver-patch"]
-
+        update-types: ["version-update:semver-major"]
+      - dependency-name: "alabaster"
+        update-types: ["version-update:semver-major"]
