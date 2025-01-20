@@ -11,4 +11,5 @@ updates:
       interval: "weekly"
     ignore:
       - dependency-name: "sphinx" # 8.x unsupported by readthedocs
-        versions: [ "[8.0,)" ]
+        update-types: ["version-update:semver-patch"]
+
